@@ -1,11 +1,11 @@
 import MasterLayout from "@/app/MasterLayout";
 
-function Home() {
+function Blog() {
     return (
         <MasterLayout>
-            <div>Homepage</div>
+            <div>Blog page</div>
         </MasterLayout>
     )
 }
 
-export default Home
+export default Blog;
